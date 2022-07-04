@@ -1,0 +1,11 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [{
+        "name": "Lim Dexter",
+        "email": "20039529@myrp.edu.sg"
+    }],
+    "require": {}
+}
